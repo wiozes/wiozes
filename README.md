@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wiozes
-- 👀 I’m interested in Fullstack developing
+- 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning Javascript & Python FastAPI and Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
