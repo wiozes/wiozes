@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @wiozes
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning Javascript & Python FastAPI and Django.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @wiozes , I am fullstack developer. Im interested in Web development, i like programming languages like Javascript, both in Frontend(other Frameworks like React,Svelte) and Backend (Node.js, Express), i also like Python at backend(Django,Flask,FastAPI)and maybe PHP, and especially i like programming
 
 <!---
 wiozes/wiozes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
